@@ -1,0 +1,2 @@
+1. If customer spends more than $500 he/she will get 10% discount
+2. If customer spends more than $1000 he/she will get 20% discount
